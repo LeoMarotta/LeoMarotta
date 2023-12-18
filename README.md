@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm Leonardo Marotta, a Computer Science undergraduate and Java Developer, searching for opportunities to learn and grow.
+I'm Leonardo Marotta, a Computer Science undergraduate and Java Developer, searching for opportunities to learn.
 
 ## Stats:
 

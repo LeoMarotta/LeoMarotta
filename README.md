@@ -19,7 +19,6 @@ Hello, I'm Leonardo! A Computer Science undergraduate at a federal university an
 <br>
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LeoMarotta&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LeoMarotta&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMarotta&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 

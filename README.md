@@ -1,5 +1,5 @@
 # About Me:
-Hello, I'm Leonardo! A Computer Science undergraduate at a federal university and a back-end developer at Augen Engenharia.<br><br>I currently work with Laravel, Python, and Node.js, building robust and scalable applications.<br><br>Beyond coding, I’m passionate about powerlifting and boxing!
+Hello, I'm Leonardo! A Computer Science undergraduate at a federal university and a back-end developer(and devops) at Augen Engenharia.<br><br>I currently work with Laravel, Python, and Node.js, building robust and scalable applications.<br><br>Beyond coding, I’m passionate about powerlifting and boxing!
 
 
 ## 🌐 Socials:
